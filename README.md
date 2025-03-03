@@ -1,4 +1,4 @@
-Here is a `README.md` file that describes how to run your script and explains what it does:
+
 
 ```markdown
 # Longest Common Subsequence Finder
